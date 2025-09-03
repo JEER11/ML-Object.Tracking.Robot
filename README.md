@@ -62,13 +62,6 @@ This loop continues until the target object is found.
 
 ---
 
-## Demo
-
-![RobotDetect](https://github.com/user-attachments/assets/10a5657a-740b-42dd-ad88-3f713b4ff16c)
-![Robot1](https://github.com/user-attachments/assets/c171bc0b-4e70-42a1-abff-affcda972244)
-
-
----
 
 ## Usage  
 
@@ -82,6 +75,15 @@ This loop continues until the target object is found.
 python object_tracking.py
 
 ```
+
+
+---
+
+
+## Demo 
+![RobotDetect](https://github.com/user-attachments/assets/10a5657a-740b-42dd-ad88-3f713b4ff16c)
+![Robot1](https://github.com/user-attachments/assets/c171bc0b-4e70-42a1-abff-affcda972244)
+
 
 ---
 
