@@ -81,5 +81,13 @@ This loop continues until the target object is found.
 ```bash
 python object_tracking.py
 
+```
 
+---
 
+## Team members
+
+- Jennifer Corte
+- Aleanny Burgos
+- Christian Ramirez
+- Jeraldine Rodriguez 
