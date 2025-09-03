@@ -73,8 +73,7 @@ This loop continues until the target object is found.
 ---
 
 #Demo
-
-![hippo]https://github.com/user-attachments/assets/16e4fcb4-5187-4aa3-b608-444fa1f9a86c
+![RobotDetect](https://github.com/user-attachments/assets/10a5657a-740b-42dd-ad88-3f713b4ff16c)
 ![34F7142D-93B7-4DB3-AF35-B10407E8313A](https://github.com/user-attachments/assets/607ff002-d39f-4a9d-a990-8ee9665bc01e)
 ![BF6DFAB5-95AD-4F32-A197-A6414CB4EFD2](https://github.com/user-attachments/assets/536d9363-6264-4d89-ad1d-20368b9c754c)
 
