@@ -66,8 +66,6 @@ This loop continues until the target object is found.
 
 ![RobotDetect](https://github.com/user-attachments/assets/10a5657a-740b-42dd-ad88-3f713b4ff16c)
 ![Robot1](https://github.com/user-attachments/assets/c171bc0b-4e70-42a1-abff-affcda972244)
-![Robot2](https://github.com/user-attachments/assets/988a26bd-01cd-4887-9237-466a46214c9c)
-
 
 
 ---
