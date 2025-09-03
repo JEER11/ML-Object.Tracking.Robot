@@ -65,8 +65,9 @@ This loop continues until the target object is found.
 ## Demo
 
 ![RobotDetect](https://github.com/user-attachments/assets/10a5657a-740b-42dd-ad88-3f713b4ff16c)
-![34F7142D-93B7-4DB3-AF35-B10407E8313A](https://github.com/user-attachments/assets/607ff002-d39f-4a9d-a990-8ee9665bc01e)
-![BF6DFAB5-95AD-4F32-A197-A6414CB4EFD2](https://github.com/user-attachments/assets/536d9363-6264-4d89-ad1d-20368b9c754c)
+![Robot1](https://github.com/user-attachments/assets/2150c3c1-962e-4a7c-87ec-b5aab4e098ca)
+![Robot2](https://github.com/user-attachments/assets/38592814-cab8-4bf6-a623-c77d60e5e395)
+
 
 ---
 
