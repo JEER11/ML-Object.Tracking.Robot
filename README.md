@@ -54,7 +54,7 @@ It is an **AI-powered robotic car** that uses an **ESP32-CAM** for vision, **Ope
 3. YOLOv3 model processes each frame to detect objects.  
 4. If the target object is detected:  
    - Car moves forward briefly.  
-   - Buzzer beeps as feedback.  
+   - Flash and Buzzer beeps as feedback.
 5. If no object is detected:  
    - Car rotates slightly, scanning the environment.  
 
